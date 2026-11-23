@@ -1,0 +1,12 @@
+# Environment variables and secrets (NEVER commit .env!)
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archive and nested backup folders
+lowprice/
+lowprice.zip
